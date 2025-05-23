@@ -6,6 +6,8 @@
 - 📝 I regularly write articles on [https://catursugi.blogspot.com/](https://catursugi.blogspot.com/)
 
 - 📫 How to reach me **catursugiak@gmail.com**
+  
+- Portofolio https://portofolio-catur-sugi.vercel.app/
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/noasma) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/catursugi.id) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/catur-sugi) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@catursugi1205) 
