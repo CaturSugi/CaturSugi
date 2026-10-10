@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/pixel-knight.png" width="100%" alt="Catur Sugi Pixel Knight RPG Profile"/>
+<img src="assets/Profil Developer RPG Pixel Catur Sugi.png" width="100%" alt="Catur Sugi Pixel Knight RPG Profile"/>
 
 ### ⚔️ PLAYER 1 — CATUR SUGI
 **LV. 1 WEB DEVELOPER | QUEST: MASTER LARAVEL**
