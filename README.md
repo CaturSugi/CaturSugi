@@ -5,7 +5,7 @@
 
 <div align="center">
 
-<img src="assets/banner.png" alt="Catur Sugi - Lv. 1 Web Developer" width="100%">
+<img src="assets/Profil Developer RPG Pixel Catur Sugi" alt="Catur Sugi - Lv. 1 Web Developer" width="100%">
 
 <br>
 
