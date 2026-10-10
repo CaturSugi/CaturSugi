@@ -1,59 +1,52 @@
-<div align="center">
-
-<img src="assets/Profil Developer RPG Pixel Catur Sugi.png" width="100%" alt="Catur Sugi Pixel Knight RPG Profile"/>
-
-### ⚔️ PLAYER 1 — CATUR SUGI
-**LV. 1 WEB DEVELOPER | QUEST: MASTER LARAVEL**
-
-`[ CODE ]`　`[ BUILD ]`　`[ LEARN ]`　`[ LEVEL UP ]`
-
-</div>
-<!--
-╔══════════════════════════════════════════════════════════╗
-║              CATUR SUGI // PLAYER PROFILE                ║
-║                   RETRO ARCADE v1.0                      ║
-╚══════════════════════════════════════════════════════════╝
--->
+<!-- ========================================= -->
+<!-- CATUR SUGI | RETRO PIXEL RPG PROFILE     -->
+<!-- ========================================= -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=180&color=0:10002B,50:240046,100:3C096C&text=CATUR%20SUGI&fontColor=39FF14&fontSize=55&fontAlignY=42&desc=PLAYER%201%20%7C%20DEVELOPER%20%7C%20TECH%20ENTHUSIAST&descAlignY=68&descSize=13&animation=fadeIn" width="100%" alt="Catur Sugi Retro Arcade Header"/>
+<a href="https://github.com/CaturSugi">
+  <img src="assets/Profil%20Developer%20RPG%20Pixel%20Catur%20Sugi.png"
+       width="100%"
+       alt="Catur Sugi - Pixel Knight Developer Profile"/>
+</a>
 
-<img src="https://readme-typing-svg.demolab.com?font=Courier+Prime&weight=700&size=18&duration=3000&pause=900&color=39FF14&center=true&vCenter=true&width=600&lines=%3E+HELLO+WORLD!+PLAYER+ONE+JOINED;%3E+WEB+DEVELOPER+IN+PROGRESS;%3E+LEARNING+LARAVEL+FRAMEWORK;%3E+LEVELING+UP+EVERY+DAY..." alt="Retro typing animation"/>
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Courier+Prime&weight=700&size=18&duration=2500&pause=800&color=39FF14&center=true&vCenter=true&width=600&lines=%3E+PLAYER+1%3A+CATUR+SUGI;%3E+WEB+DEVELOPER;%3E+QUEST%3A+MASTER+LARAVEL;%3E+CODE.+BUILD.+LEVEL+UP." alt="Retro RPG typing animation"/>
 
 <br/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=CaturSugi&label=PROFILE+VIEWS&color=39FF14&style=pixel)
-![GitHub followers](https://img.shields.io/github/followers/CaturSugi?label=FOLLOWERS&style=pixel&color=9D4EDD)
-![GitHub stars](https://img.shields.io/github/stars/CaturSugi?label=STARS&style=pixel&color=FFD60A)
+![Followers](https://img.shields.io/github/followers/CaturSugi?label=FOLLOWERS&style=pixel&color=9D4EDD)
+![Stars](https://img.shields.io/github/stars/CaturSugi?label=STARS&style=pixel&color=FFD60A)
 
 </div>
 
 ---
 
-## `01 // PLAYER PROFILE`
+## ⚔️ `PLAYER 1 // CATUR SUGI`
 
 ```text
-  ___________________________________________
- |                                           |
- |   PLAYER : CATUR SUGI                     |
- |   CLASS  : WEB DEVELOPER                  |
- |   REGION : INDONESIA                      |
- |   STATUS : ONLINE & LEARNING              |
- |___________________________________________|
- |                                           |
- |   [PHP] [LARAVEL] [JAVASCRIPT] [MYSQL]    |
- |                                           |
- |   CURRENT QUEST: MASTER LARAVEL           |
- |___________________________________________|
++------------------------------------------+
+|             PLAYER STATUS                |
++------------------------------------------+
+| NAME    : CATUR SUGI                     |
+| CLASS   : WEB DEVELOPER                  |
+| REGION  : INDONESIA                      |
+| WEAPON  : KEYBOARD + SWORD               |
+| QUEST   : MASTER LARAVEL                 |
+| STATUS  : LEVELING UP                    |
++------------------------------------------+
+|  [ CODE ] [ BUILD ] [ LEARN ] [ REPEAT ] |
++------------------------------------------+
 ```
 
-Hey there! 👋 Welcome to my digital playground!
+Hey there! Welcome to my digital adventure!
 
 I'm **Catur Sugi**, a developer from Indonesia who enjoys building web applications, exploring technology, and turning ideas into practical solutions.
 
-- 🌱 **Current Quest:** Learning the Laravel Framework and improving my web development skills.
-- 💻 **Main Interest:** Web Development, Backend Development, and Database Management.
+- 🌱 **Current Quest:** Learning Laravel Framework.
+- 💻 **Main Interests:** Web Development, Backend Development, and Database Management.
 - 📝 **Blog:** [catursugi.blogspot.com](https://catursugi.blogspot.com/)
 - 🌐 **Portfolio:** [Visit My Portfolio](https://portofolio-catur-sugi.vercel.app/)
 - 📫 **Email:** [catursugiak@gmail.com](mailto:catursugiak@gmail.com)
@@ -70,7 +63,7 @@ I'm **Catur Sugi**, a developer from Indonesia who enjoys building web applicati
 [![Instagram](https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/catursugi.id)
 [![YouTube](https://img.shields.io/badge/YOUTUBE-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@catursugi1205)
 [![Discord](https://img.shields.io/badge/DISCORD-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/noasma)
-[![Gmail](https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:catursugiak@gmail.com)
+[![EMAIL](https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:catursugiak@gmail.com)
 
 </div>
 
@@ -123,24 +116,25 @@ I'm **Catur Sugi**, a developer from Indonesia who enjoys building web applicati
 
 ---
 
-## `05 // QUEST LOG`
+## `05 // ACTIVE QUEST LOG`
 
 ```text
-  [ ACTIVE QUESTS ]
-
-  [>] Learn Laravel Framework
-  [>] Build practical web applications
-  [>] Improve backend & database skills
-  [>] Explore new technologies
-
-  [ QUEST STATUS: IN PROGRESS ]
-
-  EXP +100  FOR EVERY NEW THING LEARNED!
++------------------------------------------+
+|              ACTIVE QUESTS               |
++------------------------------------------+
+| [>] Learn Laravel Framework              |
+| [>] Build practical web applications     |
+| [>] Improve backend & database skills    |
+| [>] Explore new technologies             |
++------------------------------------------+
+| STATUS : IN PROGRESS                     |
+| REWARD : +100 EXP PER LESSON             |
++------------------------------------------+
 ```
 
 ---
 
-## `06 // INSERT COIN TO CONTINUE`
+## `06 // LEVEL UP`
 
 <div align="center">
 
